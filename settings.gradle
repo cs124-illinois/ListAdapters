@@ -1,0 +1,6 @@
+include ':basic-item-manager'
+include ':fire-store-item-manager'
+include ':modular-adapter'
+include ':sorted-list-adapter'
+include ':sorted-list-item-manager'
+include ':static-list-item-manager'
