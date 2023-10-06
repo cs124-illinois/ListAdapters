@@ -16,7 +16,7 @@ buildscript {
 
 allprojects {
     group("com.github.cs124-illinois.ListAdapters")
-    version("2023.10.0")
+    version("2023.10.1")
     repositories {
         google()
         mavenCentral()
